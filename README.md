@@ -10,3 +10,5 @@ drag "LockMyMac.app" to your dock !
 simply click dock when you want to lock your Machintosh , type your user password to unlock ! during lock mode your 
 
 screensaver will appear and runs as background ! 
+
+During lock mode all running apps remain running state !
